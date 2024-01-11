@@ -13,13 +13,17 @@ Ocean of Data Challenge by DeepSense research team of Dalhousie University
 ![image](https://github.com/gjftns7220/Sea_temperature_and_salinity_prediction/assets/143769164/4f179767-4182-46a0-853d-51a214ee2b1f)
 
 Longitude: from -140° to -122°
+
 Latitude: from 45° to 55°
+
 Depth: from 0 to 500 meters
+
 Temperature: from -3° to 20° Celsius
+
 Salinity: from 20 to 40 PSU (Practical Salinity Units)
 
 
-**Model Performance Metrics![image](https://github.com/gjftns7220/Sea_temperature_and_salinity_prediction/assets/143769164/30bc26ee-7b6e-4649-95cd-46b54d11057a)**
+**Model Performance Metrics**
 Sea Water Temperature Predictions
 LightGBM:
 RMSE*: 0.7584
