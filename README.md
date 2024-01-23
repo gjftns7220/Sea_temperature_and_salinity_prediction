@@ -35,7 +35,7 @@ Salinity Range:    Measuring from 20 to 40 PSU (Practical Salinity Units).
 
 This refined approach not only streamlined our data processing efforts but also ensured that our machine-learning models were trained on the most relevant and impactful data subsets. By focusing on these specific geographic, depth, temperature, and salinity parameters, we aimed to maximize the accuracy and relevance of our oceanic forecasts.
 
-**Tools and Methods**
+**Tools and Methods**  
 In our quest to predict future sea temperature and salinity, we employed three prominent open-source regression libraries known for their effectiveness in handling complex datasets: LightGBM, XGBoost, and CatBoost. These tools were instrumental in developing our time-series forecasting models.  
 
 A key challenge we faced was the requirement of at least four features for our models: time, longitude, latitude, and depth. Selecting 3D coordinates that were not only relevant but also abundant in our training data posed a significant challenge. These coordinates needed to closely resemble our existing dataset to ensure the accuracy and reliability of our predictions.  
@@ -44,7 +44,7 @@ Initially, we explored the use of Generative Models for Synthetic Data Productio
 
 However, we encountered substantial hurdles in terms of computing resource consumption and time constraints with these generative models. To overcome this, we pivoted our strategy. Instead of relying on synthetic data generation, we opted to select random 3D coordinates directly from our training set. From these, we generated 1 million randomly spaced data points, in terms of time, spanning from June 1st, 2023, to December 31st, 2050. This approach not only streamlined our data preparation process but also ensured that our models were trained on data points that were representative of the conditions we aimed to forecast.  
 
-**Model Performance Metrics**
+**Model Performance Metrics**  
 In the initial stages of our project, we adopted the conventional Random Forest Regression model from scikit-learn, a widely-used and robust method for regression tasks. However, as our research progressed, we explored advanced gradient-boosting algorithms, namely LightGBM, XGBoost, and CatBoost. These algorithms demonstrated superior performance in terms of training time efficiency and overall predictive accuracy, leading us to pivot our approach towards these more sophisticated methods. This strategic shift was pivotal in enhancing the effectiveness of our model in forecasting sea temperature and salinity with greater precision and speed.
 
 Sea Water Temperature Predictions:  
