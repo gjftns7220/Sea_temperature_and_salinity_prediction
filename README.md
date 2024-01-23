@@ -10,16 +10,14 @@ The competition included 240 students registered, and 10 different post-secondar
 [Winner Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7135340703865315330/)
 
 **Project Objective**
+
 Our project focused on time-series forecasting of Ocean temperature and Salinty predictions to analyze oceanic sea diversity until the end of 2050.
 
 Our area of focus relied on 
 
 Longitude: from -140° to -122°
-
 Latitude: from 45° to 55°
-
 Depth: from 0 to 500 meters
-
 Temperature: from -3° to 20° Celsius
 
 Salinity: from 20 to 40 PSU (Practical Salinity Units)
