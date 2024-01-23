@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository showcasing our Best Innovative Design winning solution for the Ocean of Data Challenge – Coast to Coast to Coast, a collaborative effort by DeepSense, the Canadian Integrated Ocean Observing System (CIOOS), and various partners. As a proud participant from the University of Alberta, I am excited to present my innovative machine-learning approach tailored for forecasting sea temperature and salinity.
 
+This challenge, which ran from November 1st to November 20th, 2023, brought together 240 talented students from 10 different Canadian post-secondary institutions. It provided a platform for us to apply advanced machine-learning techniques to understand and solve complex oceanic issues.
+
 [Video Presentation - Extended Version](https://youtu.be/9YQ4zv3rX-A?si=EWHYAtuFVZEA7GbM)
 
 [Winner Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7135340703865315330/)
